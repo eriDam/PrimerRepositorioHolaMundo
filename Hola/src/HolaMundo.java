@@ -5,6 +5,8 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Proyecto");
 		System.out.println("¿Que tal?");
+		System.out.println("Para ver los cambios ir a show in history");
+		
 	}
 
 }
